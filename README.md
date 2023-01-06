@@ -1,11 +1,11 @@
-Hi 👋 My name is Olivier Kobialka
+Hi 👋 My name is Olivier Kobialka.
 =================================
 
 A passionate frontend and backend developer
 -------------------------------------------
 
-* 🌍  I'm based in Poland
-* 🧠  I'm learning React.js TypeScript Solidity
+* 🌍  I'm based in Poland Warsaw
+* 🧠  I'm learning React.js TypeScript Solidity and about AI
 
 <a href="https://www.github.com/OlivierK07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/OlivierK07?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
