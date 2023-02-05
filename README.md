@@ -80,7 +80,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/OlivierK07" target="_blank">
+<a href="https://github.com/OlivierKobialka" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/OlivierKob21" target="_blank">
@@ -98,20 +98,14 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OlivierK07&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+<br/>   
 
   
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=OlivierK07&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=OlivierKobialka&&style=flat-square" align="center" />
 </div>  
   
 
