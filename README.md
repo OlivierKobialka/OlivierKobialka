@@ -99,5 +99,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OlivierKobialka&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OlivierKobialka)](https://github.com/OlivierKobialka)
