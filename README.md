@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋 My name is Olivier Kobialka. I'm learning to become fullstack web developer
+### <div align="center">Hi, My name is Olivier Kobialka. I'm learning to become Blockchain Developer
 </div>  
   
 
