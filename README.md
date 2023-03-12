@@ -61,18 +61,20 @@
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
-<a href="https://docs.ethers.org/v5/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" height="50" /></a>
-<a href="https://hardhat.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat.js" height="50" /></a>
+  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### Blockchain  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://ethereum.org" target="_blank"><img style="margin: 15px" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="eth" height="50" /></a>  
+<a href="https://hardhat.org/" target="_blank"><img style="margin: 15px" src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt="hardhat" height="50" /></a>  
+<a href="https://web3js.org" target="_blank"><img style="margin: 15px" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3" height="50" /></a>  
+<a href="https://docs.ethers.org/v5/" target="_blank"><img style="margin: 15px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers" height="50" /></a> 
+<a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="solidity" height="50" /></a>
 </div>
 
 </td></tr></table>  
